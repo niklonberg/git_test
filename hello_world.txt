@@ -1,7 +1,0 @@
-Woo look at me opening and closening visual studio with ma linux terminahl
-
-I'm quite clearly a programming prodigy in the making.
-
-Watch me save this and stage this and commit it in git
-
-Here's an edit
